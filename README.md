@@ -1,4 +1,4 @@
-## Olá, sou o Raul Neto 🫱🏽‍🫲🏽 <h1>
+## Olá, sou o Raul Neto 🤝 <h1>
 
 * Atualmente trabalho com Estatísticas no Hospital da Força Aérea de São José dos Campos - SP
 * Estudante de Banco de Dados na FATEC SJC SP 1/6
