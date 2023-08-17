@@ -1,8 +1,8 @@
 ## Olá, sou o Raul Neto 🤝 <h1>
 
-* Atualmente trabalho com Estatísticas no Hospital da FORÇA AÉREA BRASILEIRA DE SÃO JOSÉ DOS CAMPOS - SP
+* Atualmente trabalho com Estatísticas - Hospital da FORÇA AÉREA BRASILEIRA DE SÃO JOSÉ DOS CAMPOS - SP
 * Estudante de Banco de Dados - FATEC SJC SP 1/6
-* Estagiário em Desenvolvimento Web no CENTRO DE COMPUTAÇÃO DA AERONÁUTICA DE SÃO JOSÉ DOS CAMPOS - SP
+* Estagiário em Desenvolvimento Web - CENTRO DE COMPUTAÇÃO DA AERONÁUTICA DE SÃO JOSÉ DOS CAMPOS - SP
 ##
 
 <div>
