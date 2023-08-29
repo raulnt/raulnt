@@ -2,7 +2,7 @@
 
 * 📊 Atualmente trabalho com Estatísticas - Hospital da FORÇA AÉREA BRASILEIRA DE SÃO JOSÉ DOS CAMPOS - SP
 * 🌐 Estagiário em Desenvolvimento Web - CENTRO DE COMPUTAÇÃO DA AERONÁUTICA DE SÃO JOSÉ DOS CAMPOS - SP
-* 🎓 Estudante de Banco de Dados - FATEC SJC SP 1/6 <br></br>
+* 🎓 Estudante de Banco de Dados - FATEC SJC SP 2/6 <br></br>
  💬 Linkedin: [https://www.linkedin.com/in/raul-jos%C3%A9-batista-neto-b51b24157/] <br></br>
  💬 E-mail: [rjbnetto@gmail.com] 
 ##
