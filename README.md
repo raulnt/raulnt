@@ -1,6 +1,6 @@
 ## Olá, sou o Raul Neto 🤝 <h1>
 
-* 📊 Atualmente trabalho como Master Data Associate - BAYER DE SÃO JOSÉ DOS CAMPOS - SP
+* 📊 Atualmente trabalho como Master Data - BAYER DE SÃO JOSÉ DOS CAMPOS - SP
 * 🌐 Estagiei com Desenvolvimento Web - CENTRO DE COMPUTAÇÃO DA AERONÁUTICA DE SÃO JOSÉ DOS CAMPOS - SP
 * 🎓 Estudante de Banco de Dados - FATEC SJC SP 3/6 <br></br>
  💬 Linkedin: [https://www.linkedin.com/in/raul-jos%C3%A9-batista-neto-b51b24157/] <br></br>
